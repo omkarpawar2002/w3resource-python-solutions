@@ -7,7 +7,7 @@ Welcome to my repository of Python problem-solving! This project is a complete a
 ## 📁 Project Structure
 
 Each folder in this repo represents a category of problems from w3resource:
-
+```
 w3resource-python/
 │
 ├── basic/ # Basic syntax and output problems
@@ -18,7 +18,7 @@ w3resource-python/
 ├── files/ # File handling problems
 ├── math/ # Math-related and number theory tasks
 └── ...
-
+```
 
 Each Python file follows this convention:
 
